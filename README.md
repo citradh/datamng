@@ -1,2 +1,2 @@
-# datamng
-To use for class
+# my-first-repo
+Hello world
